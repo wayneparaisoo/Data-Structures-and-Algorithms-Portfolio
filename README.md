@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=140&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=180&section=header&text=CPE%20010&fontSize=56&fontColor=c9d1d9&animation=fadeIn&fontAlignY=38&desc=Data%20Structures%20%26%20Algorithms&descSize=18&descAlignY=60" width="100%"/>
 
-# CPE 010 · Data Structures & Algorithms
+<a href="https://github.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=480&lines=Wayne+Kaisen+Paraiso;CPE21S3;Technological+Institute+of+the+Philippines;Linked+Lists+%C2%B7+Stacks+%C2%B7+Queues+%C2%B7+Trees+%C2%B7+Graphs" alt="Typing animation" />
+</a>
 
-<sub>Technological Institute of the Philippines</sub>
-
-<br>
+<br><br>
 
 ![Student](https://img.shields.io/badge/Wayne_Kaisen_Paraiso-0d1117?style=flat-square&labelColor=161b22&color=30363d)
 ![Section](https://img.shields.io/badge/CPE21S3-0d1117?style=flat-square&labelColor=161b22&color=30363d)
@@ -63,8 +63,6 @@ This repository contains my laboratory activities, exercises, and projects for t
 
 <div align="center">
 
-<sub>Wayne Kaisen Paraiso · CPE21S3</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363d,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363d,100:0d1117&height=100&section=footer&animation=twinkling" width="100%"/>
 
 </div>
