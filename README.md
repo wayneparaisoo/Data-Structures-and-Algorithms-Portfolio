@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=180&section=header&text=CPE%20010&fontSize=56&fontColor=c9d1d9&animation=fadeIn&fontAlignY=38&desc=Data%20Structures%20%26%20Algorithms&descSize=18&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=200&section=header&text=CPE%20010&fontSize=60&fontColor=c9d1d9&animation=fadeIn&fontAlignY=40" width="100%"/>
+
+### Data Structures & Algorithms
 
 <a href="https://github.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=480&lines=Wayne+Kaisen+Paraiso;CPE21S3;Technological+Institute+of+the+Philippines;Linked+Lists+%C2%B7+Stacks+%C2%B7+Queues+%C2%B7+Trees+%C2%B7+Graphs" alt="Typing animation" />
